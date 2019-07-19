@@ -1413,30 +1413,46 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rwFxC8E4R2 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #232323;
+.cid-rwFXYNUfCd {
+  background: #ffffff;
 }
-.cid-rwFxC8E4R2 .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
+.cid-rwFXYNUfCd .image-block {
+  margin: auto;
+  width: 100% !important;
 }
-.cid-rwFxC8E4R2 .mbr-author-name {
-  font-weight: bold;
+.cid-rwFXYNUfCd .mbr-figure {
+  margin: 0 auto;
 }
-.cid-rwFxC8E4R2 .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+.cid-rwFXYNUfCd figcaption {
+  position: relative;
 }
-@media (max-width: 991px) {
-  .cid-rwFxC8E4R2 .mbr-figure,
-  .cid-rwFxC8E4R2 img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+.cid-rwFXYNUfCd figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rwFXYNUfCd .image-block {
+    width: 100% !important;
   }
-  .cid-rwFxC8E4R2 .media-content {
-    padding-top: 1.5rem !important;
-  }
+}
+.cid-rwFTMUDbhr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rwFTMUDbhr h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rwFTMUDbhr p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rwFTMUDbhr .card-box {
+  padding-top: 2rem;
+}
+.cid-rwFTMUDbhr .card-wrapper {
+  height: 100%;
 }
